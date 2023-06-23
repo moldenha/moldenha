@@ -1,1 +1,1 @@
-striatum tracing project
+Projects involving computational neuroscience
